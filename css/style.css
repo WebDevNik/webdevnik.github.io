@@ -9,11 +9,16 @@ img{
 }
 
 header{
-	padding-top: 59px;
+	padding-top: 19px;
 	padding-bottom: 22px;
 	background-color: #3A7DFD;
 	color: #fff;
 	background-image: url(fon.jpg);
+}
+
+.header-img{
+width: 599px;
+height: 440px;
 }
 
 .header-pretitle{
@@ -35,7 +40,7 @@ header{
 .header-button{
 	display:inline-block;
 	text-decoration: none;
-	box-shadow: 10px 17px 34px 6px rgba(86, 152, 28, 1);
+	box-shadow: 10px 17px 34px 6px rgba(70, 70, 85, 1);
 	border-radius: 50px;
 	background-color: #ffffff;
 	color: #072b6f;
