@@ -67,9 +67,66 @@ header small {
 }
 
 /*секция портфолио*/
+
+.sale{
+	background-color: #fff;
+}
+
+.sale-price{
+	height: 25px;
+	border-radius: 9px;
+ background-color: #f05a22;
+ color: #fff;
+ font-size:20px;
+}
+
+.sale-text{
+	font-size: 20px;
+}
+
+.sale-block{
+	display: block;
+	text-align: center;
+	margin-top: 110px;
+	margin-bottom: 150px;
+}
+
+.sale-title{
+	font-size: 22px;
+	color: #464655;
+}
+
+.sale-img-1{
+	width: 94px;
+	height: 90px;
+	
+	
+}
+
+.sale-img-2{
+	width: 94px;
+	height: 90px;
+	
+	
+}
+
+.sale-img-3{
+	width: 94px;
+	height: 90px;
+
+	
+}
+
+.sale-img-4{
+	width: 94px;
+	height: 90px;
+
+	
+}
+
 .portfolio{
 	background-color: #dddddd;
-	background: linear-gradient(to top right,#D7CDC3 ,#FFFFFF);
+	background: linear-gradient(to top right,#96A5B9 ,#FFFFFF);
 	padding-top: 44px;
 	padding-bottom: 71px;
 }
