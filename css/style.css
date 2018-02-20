@@ -287,6 +287,22 @@ footer{
 footer{
 	background-image: url(fon3.jpg);
 }
+.footer-author{
+ font-size: 18px;
+}
+
+.footer-text{
+	margin-bottom: 12px;
+}
+
+.footer-button{
+	padding-bottom: -20px;
+}
+
+.social-block{
+ margin-top: 20px;
+
+}
 
 .container-block{
 	text-align:center;
