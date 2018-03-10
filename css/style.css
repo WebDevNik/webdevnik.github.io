@@ -15,7 +15,7 @@ header{
 	color: #fff;
 	background-image: url(fon.jpg);
 }
-
+/*****************************секция шапки************************/
 .header-img{
 width: 599px;
 height: 440px;
@@ -66,10 +66,31 @@ header small {
 	max-width: 210px;
 }
 
-/*секция портфолио*/
+/**************************************секция Ценников*********************************/
 
 .sale{
-	background-color: #fff;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	background: linear-gradient(to top right,#96A5B9 ,#FFFFFF);
+}
+
+.sale-block{
+	display: block;
+	text-align: center;
+
+}
+
+.sale-title{
+	font-size: 17px;
+	color: #464655;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-bottom: 40px;
+}
+
+.sale-img{
+	width: 94px;
+	height: 90px;
 }
 
 .sale-price{
@@ -81,60 +102,21 @@ header small {
 }
 
 .sale-text{
-	font-size: 20px;
-}
-
-.sale-block{
-	display: block;
-	text-align: center;
-	margin-top: 110px;
-	margin-bottom: 150px;
-}
-
-.sale-title{
-	font-size: 22px;
+	font-size: 16px;
 	color: #464655;
+	line-height: 1.5em;
 }
 
-.sale-img-1{
-	width: 94px;
-	height: 90px;
-	
-	
-}
 
-.sale-img-2{
-	width: 94px;
-	height: 90px;
-	
-	
-}
-
-.sale-img-3{
-	width: 94px;
-	height: 90px;
-
-	
-}
-
-.sale-img-4{
-	width: 94px;
-	height: 90px;
-
-	
-}
-
+ /*******************Портфолио***********************/
 .portfolio{
-	background-color: #dddddd;
-	background: linear-gradient(to top right,#96A5B9 ,#FFFFFF);
-	padding-top: 44px;
-	padding-bottom: 71px;
+	margin: 0;
 }
 
 .portfolio-block{
 	background-color: #fff;
-	padding-top: 29px;
-	padding-bottom: 44px;
+	padding-top: 100px;
+	padding-bottom: 150px;
 }
 
 .portfolio-title{
@@ -174,6 +156,7 @@ header small {
 	color: #8f8f8f;
 	font-size: 14px;
 	font-weight: 400;
+	line-height: 1.5em;
 }
 
 .portfolio-block a {
@@ -287,6 +270,25 @@ footer{
 footer{
 	background-image: url(fon3.jpg);
 }
+
+.sale{
+	padding-top: 0px;
+	padding-bottom: 60px;
+}
+
+.sale-price{
+
+}
+
+.col-md-3{
+	margin-top: 60px;
+}
+
+.portfolio-block{
+	padding-top: 40px;
+	text-align: center;
+}
+
 .footer-author{
  font-size: 18px;
 }
