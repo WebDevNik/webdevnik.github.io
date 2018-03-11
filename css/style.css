@@ -96,9 +96,10 @@ header small {
 .sale-price{
 	height: 25px;
 	border-radius: 9px;
- background-color: #f05a22;
- color: #fff;
- font-size:20px;
+ 	background-color: #f05a22;
+ 	color: #fff;
+ 	font-size:20px;
+
 }
 
 .sale-text{
@@ -277,7 +278,9 @@ footer{
 }
 
 .sale-price{
-
+width: 50%;
+margin-left: auto;
+margin-right: auto;
 }
 
 .col-md-3{
